@@ -1,0 +1,1319 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta name="google-adsense-account" content="ca-pub-4419970741112088">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title></title>
+  <!--ads-->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4419970741112088"
+     crossorigin="anonymous"></script>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4419970741112088"
+     crossorigin="anonymous"></script>
+
+  <!--
+    - favicon
+  -->
+  <link rel="shortcut icon" href="./assets/images/logo.ico" type="image/x-icon">
+
+  <!--
+    - custom css link
+  -->
+  <link rel="stylesheet" href="./assets/css/style.css">
+
+  <!--
+    - google font link
+  -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+        
+
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4419970741112088"
+     crossorigin="anonymous"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-fb+5w+4e-db+86"
+     data-ad-client="ca-pub-4419970741112088"
+     data-ad-slot="2156349612"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({'https://careerfx.cromajet.repl.co/'});
+</script>
+<iframe width="370" height="40" frameborder="0" class="hnor" src="https://staticmy.roboforex.com/en/partners/informers_get/?width=600&width_type=slider&speed=4&color_bg=%23ffffff&color_bd=%23dbe5e8&arrows=on&data_type=askbid&EURUSD=&GBPUSD=&USDCHF=&USDJPY=&USDCAD=&AUDUSD=&NZDUSD=&EURGBP=&EURJPY=&EURCHF=&GBPJPY=&GBPCHF=&AUDCAD=&XAUUSD=&type=quotestape"></iframe>
+    <aside class="sidebar" data-sidebar>
+
+      <div class="sidebar-info">
+
+        <figure class="avatar-box">
+          <img src="career.jpg" width="70" height="70">
+        </figure>
+
+        <div class="info-content">
+          <h1 class="name" title="Richard hanrick">CareerForex</h1>
+
+  <p class="title">Forex Trade</p>
+        </div>
+
+        <button class="info_more-btn" data-sidebar-btn>
+          <span>Show Contacts</span>
+
+          <ion-icon name="chevron-down"></ion-icon>
+        </button>
+
+      </div>
+
+      <div class="sidebar-info_more">
+
+        <div class="separator"></div>
+
+        <ul class="contacts-list">
+
+          <li class="contact-item">
+
+            <div class="icon-box">
+              <ion-icon name="mail-outline"></ion-icon>
+            </div>
+
+            <div class="contact-info">
+              <p class="contact-title">Email</p>
+
+              <a href="mailto:cromajet1@gmail.com" class="contact-link">cromajet1@gmail.com</a>
+            </div>
+
+          </li>
+
+          <li class="contact-item">
+
+            <div class="icon-box">
+              <ion-icon name="phone-portrait-outline"></ion-icon>
+            </div>
+
+            <div class="contact-info">
+              <p class="contact-title">Phone</p>
+
+              <a href="tel:+2349160932630" class="contact-link">Call Us</a>
+            </div>
+
+          </li>
+
+          <li class="contact-item">
+
+            <div class="icon-box">
+              <ion-icon name="company-outline"></ion-icon>
+            </div>
+
+            <div class="contact-info">
+              <p class="contact-title">Company</p>
+
+              <name type="text">Career Skills Development</name>
+            </div>
+
+          </li>
+
+          <li class="contact-item">
+
+            <div class="icon-box">
+              <ion-icon name="location-outline"></ion-icon>
+            </div>
+
+            <div class="contact-info">
+              <p class="contact-title">Location</p>
+
+              <address>Charanchi, Katsina, Nigeria</address>
+            </div>
+
+          </li>
+
+        </ul>
+
+        <div class="separator"></div>
+
+        <ul class="social-list">
+
+          <li class="social-item">
+            <a href="https://classroom.google.com/c/NjMwNzY4MTgxMjIx?cjc=wf6c33a" class="social-link">
+              <ion-icon name="logo-google-class"></ion-icon>
+            </a>
+          </li>
+
+          <li class="social-item">
+            <a href="https://chat.whatsapp.com/HoiJy45BVthE0tsI94jPQC" class="social-link">
+              <ion-icon name="logo-whatsapp"></ion-icon>
+            </a>
+          </li>
+
+          <li class="social-item">
+            <a href="#" class="social-link">
+              <ion-icon name="logo-instagram"></ion-icon>
+            </a>
+          </li>
+
+        </ul>
+
+      </div>
+
+    </aside>
+
+
+
+
+
+    <!--
+      - #main-content
+    -->
+
+    <div class="main-content">
+
+      <!--
+        - #NAVBAR
+      -->
+
+      <nav class="navbar">
+
+        <ul class="navbar-list">
+
+          <li class="navbar-item">
+            <button class="navbar-link  active" data-nav-link>About</button>
+          </li>
+
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Education</button>
+          </li>
+
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Portfolio</button>
+          </li>
+
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Academy</button>
+          </li>
+
+          <li class="navbar-item">
+            <button class="navbar-link" data-nav-link>Contact</button>
+          </li>
+
+        </ul>
+
+      </nav>
+
+
+
+
+
+      <!--
+        - #ABOUT
+      -->
+
+      <article class="about  active" data-page="about">
+
+        <header>
+          <h2 class="h2 article-title">About CareerFX</h2>
+        </header>
+
+        <section class="about-text">
+          <p>
+  career skills are the skills that are acquired through your career.we here at careerfx aim to teach you the skills that are essential to succeed in your career on forex trading, investment, crypto and crypto trading.In this site we provide difference <b>brokers</b> and investors with the knowledge to trade in your favorite <b>Forex</b> and <b>crypto</b> assets.
+            Our job is to build your wealth income on forex trading, in this web we should learn all the strategist of trading and investing.from the beginner to the expert.
+          </p>
+      
+        </section>
+
+
+        <!--
+          - service
+        -->
+                        
+        <section class="service">
+
+          <h3 class="h3 service-title">CareerForex - professional services on Forex market.</h3>
+
+          <ul class="service-list">
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                           
+         <a href="https://my.roboforex.com/en/?a=hnor">                 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIN5uLmpPpteq1ChYP4fsJBVG_DyOcklZapg&amp;usqp=CAU" width="280" height="200" /></a>
+    <center>☝️☝️</center>
+              </div>
+<div class="service-content-box">
+                <h3 class="h3 service-item-title">Robo Forex unlimited Trading</h3>
+  <p class="service-item-text">
+    RoboFx is the best trading forex brokerage company. Our clients are the best investors and brokers. Our clients are the best investors.
+  </p>
+  
+  <button>
+  <a class="hnor" href="https://roboforex.com/clients/promotions/profit-share/" title="Forex trading bonus" >Profit Share Bonus</a>
+  </button>
+  <hr>
+  <h3 class="h3 service-item-title">CopyFX platform:</h3>
+  
+  <p class="service-item-text">Copytrading service allows to invest funds and automatically copy positions executed by experienced traders. Clients who use this service don't have to download any trading platform, for everything is processed through our website while your referral commission is paid under regular conditions.</p>
+     <button>
+       <a class="hnor" href="https://www.copyfx.com" title="Forex copy trading" >Copy Trade</a>
+     </button>
+  <hr>
+
+  <h4 class="h4 service-item-title">Robo StocksTrader.</h4>
+  <p>Get up promo StocksTrader for investment.</p>
+  <button>
+<a class="hnor" href="https://roboforex.com/forex-trading/platforms/stock-market/" title="Platform R StocksTrader" >SignUp</a>
+  </button>
+              </div>
+            </li>
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+
+           
+                <iframe src="https://octaengine.com/ib/300x250/ib18566514"
+        allowtransparency="true" framespacing="0" frameborder="no" scrolling="no"
+        width="280"
+        height="250"></iframe>
+      
+              </div>
+
+              <div class="service-content-box">☝️☝️
+                <h4 class="h4 service-item-title">OctaFX 10 Years Expriance Trading</h4>
+
+                <p class="service-item-text">
+                  There are no limits for brokerage company OctaFX when it comes to  providing outstanding benefits to clients. </p>
+                <h4 class="h4 service-item-title">Trading Academy.</h4>
+<a href="https://www.tradingtiger.pro/?refid=ib18566514">education Academy.</a>
+☝️☝️
+                <p class="service-item-text">education course will automatically become your clients.</p>
+<h4 class="h4 service-item-title">Copy Trade.</h4>
+                <a href="https://www.octafx.com/copy-trade/copier-account/?refid=ib18566514">copy trading.</a>☝️☝️
+                <p class="service-item-text">Copytrading service allows to invest funds and automatically copy positions executed by experienced traders. Clients who use this service don't have to download any trading platform, for everything is processed through our website while your referral commission is paid under regular conditions.
+</p>
+              </div>
+
+            </li>
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <a href="https://one.exness-track.com/a/1bb4qvbzii"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBkVeTf7KRzzn2b00wYqrnqozu5ZvMyjRzJg&amp;usqp=CAU" width="280" /></a>
+              </div>
+
+              <div class="service-content-box">☝️☝️
+                <h4 class="h4 service-item-title">ExnessFX</h4>
+
+                <p class="service-item-text">Online trading on Exness' powerful trading platform with better-than-market conditions on the world's financial markets. Always trade responsibly.
+                  <a href="https://my.exness.com/pa/analytics">Analytics Academy</a>
+                  ☝️☝️
+                  <hr>
+<a href="https://one.exness-track.com/a/1bb4qvbzii?platform=mobile&pid=mobile_share">Receive $10,000 in virtual funds and learn how to trade with a market leader </a>
+☝️☝️
+                </p>
+              </div>
+
+            </li>
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+<script src="https://fbs.partners/banner/43152ecd840cb4fd0d39934e50e6c9ab435abd1f023f8813113874299e59272b/6080/script.js?ibp=20849339" height="40" id="43152ecd840cb4fd0d39934e50e6c9ab435abd1f023f8813113874299e59272b" async></script>
+
+                <script src="https://fbs.partners/banner/8476e09259c79903bbdfb0c00e61476b6d8606b6ebe9f57d747fcbdec005313f/5262/script.js?ibp=20849339" id="8476e09259c79903bbdfb0c00e61476b6d8606b6ebe9f57d747fcbdec005313f" async></script>
+                <script src="https://fbs.partners/banner/d725980b17f96bb1bddf145d82046a7eca5f69e199959207edc6a4f54e22bd2e/5988/script.js?ibp=20849339" id="d725980b17f96bb1bddf145d82046a7eca5f69e199959207edc6a4f54e22bd2e" async></script>
+                <script src="https://fbs.partners/banner/435439cb6cdad5dd6e8befb60d3a2b0b372101b229301d811c0cbaab47c527b9/5867/script.js?ibp=20849339" id="435439cb6cdad5dd6e8befb60d3a2b0b372101b229301d811c0cbaab47c527b9" async></script>
+                <script src="https://fbs.partners/banner/8476e09259c79903bbdfb0c00e61476b6d8606b6ebe9f57d747fcbdec005313f/5262/script.js?ibp=20849339" id="8476e09259c79903bbdfb0c00e61476b6d8606b6ebe9f57d747fcbdec005313f" async></script>
+                <script src="https://fbs.partners/banner/1bc69bfb0d9fda9e60b6f04a12a3754d47a7f9736c62c19a96bcd978f034e9ef/5358/script.js?ibp=20849339" id="1bc69bfb0d9fda9e60b6f04a12a3754d47a7f9736c62c19a96bcd978f034e9ef" async></script>
+                <script src="https://fbs.partners/banner/88d62bf9e1f050e818d4b38c72dcd5bd1fb8c06df8a90d321fabd6b5191def33/5156/script.js?ibp=20849339" id="88d62bf9e1f050e818d4b38c72dcd5bd1fb8c06df8a90d321fabd6b5191def33" async></script>
+
+                <script src="https://fbs.partners/banner/ce34e8b63b9047a7aea09a422a5bc39aeb19323e51444104677a380e1cf61e43/4570/script.js?ibp=20849339" id="ce34e8b63b9047a7aea09a422a5bc39aeb19323e51444104677a380e1cf61e43" async></script>
+                <script src="https://fbs.partners/banner/cd831b6b6a087b7aa745a665433934d6c34371cb525ef6614557a19b5091abcd/5646/script.js?ibp=20849339" id="cd831b6b6a087b7aa745a665433934d6c34371cb525ef6614557a19b5091abcd" async></script>
+                
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">FBS</h4>
+                <a href="https://fbs.partners?ibl=630434&ibp=20849339">Join FBS here</a>
+                ☝️☝️
+
+                <p class="service-item-text">
+  Fasting blood sugar (FBS) measures blood glucose after you have not eaten for at least 8 hours. It is often the first test done to check for prediabetes and diabetes.Exploit various account types for any taste: Standard, Cent, Pro. Join FBS. Live Support 24/7. Data & Account Safety. Operated Globally. Over 27 Million Clients. Types: Standard, Cent, Pro. Award-Winning Broker. Daily.
+  <a href="https://fbs.com/cabinet/content/education/levels/4">FBS Education Academy</a>                ☝️☝️
+                </p>
+              </div>
+
+            </li>
+
+<li class="service-item">
+
+              <div class="service-icon-box">
+                <a href="https://www.binance.com/en/activity/referral-entry/CPA/together?ref=CPA_00RBY4FXVK"><img src="binance.jpg" width="280" height="320"/></a>
+              </div>
+              <div class="service-content-box">
+                <a href="https://accounts.binance.com/register?ref=KNTK3J19">Join Binance</a>
+                ☝️☝️
+                <h4 class="h4 service-item-title">Binance Cryptocurrency</h4>
+
+                <p class="service-item-text">Binance is an online exchange where users can trade cryptocurrencies. It supports hundreds of the most commonly traded cryptocurrencies. Binance provides a crypto wallet for traders to store their electronic funds. The exchange has supporting services for users to earn interest or transact using cryptocurrencies.Create Your Binance Account — Get Your Free Binance Account Today! Signup Take Less Than 40 Seconds. Enjoy Professional. Steps: Review Your Transactions, Import Your Trades, Generate Your Tax Report. Binance.
+                  <a href="https://academy.binance.com/en/learn-and-earn">Our Academy</a>
+                  ☝️☝️
+                  touch image or link button.
+                </p>
+              </div>
+
+            </li>
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <a href="https://selar.co/bl7w">
+<img src="https://www.netsolutions.com/insights/wp-content/uploads/2021/12/11-most-popular-programming-languages-2022.webp" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 1500px; opacity: 1; transform: none; width: 280px; height: 288px; margin: 0px;" alt="Top 11 Popular Programming Languages for 2024" jsname="kn3ccd" aria-hidden="false">
+
+</a>
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Learning programming language</h4>
+<h2>WEB DESIGN</h2>
+                <p class="service-item-text">Learning web design is a great way to expand your knowledge and skills. By learning web design, you can create a website that is visually appealing and easy to use.
+                  You can buld your own website or app. Learn programming languages such as <b>HTML, CSS, JavaScript, and Python</b>.<h4>touch image to open</h4>
+ </p>
+              </div>
+
+            </li>
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <a href="https://selar.co/ei69">
+
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOxWRwov5KaE2vq9i2G8mis6_QMSnhbqDrmA&amp;usqp=CAU" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 2300px; opacity: 1; transform: none; width: 280px; height: 360px; margin: 0px;" alt="9 Benefits of Affiliate Marketing for Business" jsname="kn3ccd" aria-hidden="false"></a>
+              </div>
+
+              <div class="service-content-box">
+                <h2 class="h2 service-item-title">Affiliate Market programme</h2>
+
+                <p class="service-item-text">
+                  Affiliate partners are able to access a full range of financial products such as shares, forex, commodities
+                  etc. By earning commissions on affiliate accounts, partners can earn up to 70% of the profits.
+  <b>Affiliate</b> marketing is a process where publishers earn a commission by promoting a product or service made by another retailer or adverti9ser using an affiliate link. The affiliate partner is rewarded a payout for providing a specific result to the retailer.
+                </p>
+                <p>Became our our affiliate partener to earn 50% from us click this.
+                  <button>
+                  <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__U3A9wlUM01WTURXTUkyVVpQUU5aU0pTNVEySVc3TS4u">Affiliate</a></button>
+                
+                </p>
+              </div>
+
+            </li>
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__U3A9wlUM01WTURXTUkyVVpQUU5aU0pTNVEySVc3TS4u">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST42ktcPvaXOdqV77y_hvUU4JkwPNIk5hQAw&amp;usqp=CAU" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 3840px; opacity: 1; transform: none; width: 280px; height: 202px; margin: 0px;" alt="What Is Affiliate Marketing? Everything You Need To Know About ..." jsname="kn3ccd" aria-hidden="false">
+                </a>
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Became Our Affiliate</h4>
+
+                <p class="service-item-text">
+  Became our affiliate to earn 50% from us click top image to apply as our affiliate marketers to earn 50% from us.
+                </p>
+              </div>
+
+            </li>
+
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <iframe width="280" height="339"
+                                            src="https://docs.google.com/presentation/d/e/2PACX-1vRUcz9usTuAAcSzAU25H7dpqspKEEQL700W7SMyjGbXFqVsFufyXXr8BxzH9KHlBR4QhsjyK5Vr249T/embed?start=false&loop=false&delayms=3000"
+                                            frameborder="0"
+                                            allowfullscreen></iframe>
+
+              <div class="service-content-box">
+                <h3 class="h3 service-item-title">Forex For You</h3>
+
+                <p class="service-item-text">
+Forex4you offers 4 different forex accounts to trade Forex and CFDs. Trade with a cent or standard lots, instant and market execution.<hr>1 300 000 Opened accounts
+710 000 000 Total orders executed
+1300+ Successful leaders
+857 000 Open orders.<hr>Forex4you.com - Forex4you™
+Global Broker & Trusted Broker
+Forex, Stocks, Commodities & other CFDs. Open Account Today!
+<a href="https://www.forex4you.com/?affid=fn2wk73:2012794" rel="nofollow"><img src="https://cdn.eglobal-group.com/marketing-materials/banners/web/947845fc35c574448ff2a7dff0e419e4.jpg"
+                                                     width="300"
+                                                     height="250"
+                                                     border="0"/></a>
+
+Forex Trading with Forex4you™
+Trade With An Industry Leader
+Spread From 0.1 pip, 1000:1 Leverage, FSC Regulation. Open Account Today!<hr>Earn Money By Automatically Copying Leading Traders. No Prior Knowledge Required. Get Financial Freedom! Try Now!
+Sign up and get financial freedom!
+Share4you is social trading service which brings together professional traders and investors. Join 100 000+ People Who've Already Succeeded With Share4you!<hr>
+<iframe width="280" height="339"
+                                            src="https://docs.google.com/presentation/d/e/2PACX-1vTHbmwJhGEUAQBU_FfQDz051vTA2URmHKrCyGsg9hvMgAOCqmBaQmLZR5YjGeYIQBy52_6UYEaZgWmK/embed?start=false&loop=false&delayms=3000"
+                                            frameborder="0"
+                                            allowfullscreen></iframe>
+
+                  
+        
+                <button>
+                  <a href="https://www.forex4you.com.ng/?affid=fn2wk73">Open Account</a></button>
+                </p>
+              </div>
+                          </li>
+          
+    <li class="service-item">
+
+  
+              <div class="service-icon-box">
+                <a href="https://roboforex.com/clients/promotions/partners-promo-2023/?utm_source=domain&utm_medium=affbanerimg&utm_content=size200_200&utm_campaign=affpartners_promo_2023&a=hnor" target="_blank" class="hnor"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxx5l3Rj1FfG_Ol_hP7gyngcPijE_lLLx09Q&amp;usqp=CAU" width="230" /></a>
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">100,000 USD to 60 partners each month</h4>
+
+                <p class="service-item-text">
+                  According to a survey conducted by the financial services company, Forex Brokers, the average forex trader earns around $1,000 per month. However, this figure can vary widely depending on the trader’s level of experience and skill.
+                </p>
+              </div>
+
+            </li>
+          </ul>
+
+        </section>
+
+
+        <!--
+          - testimonials
+        -->
+        <button class="btn btn-primary" type="button" >
+        <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAAO__U3A9wlUMkE1TUdPTjA0TzVES0RUVERXSFE4TFJBVy4u">Subscribe us</a>
+</button>
+        <section class="testimonials">
+
+          <h3 class="h3 testimonials-title">The Author</h3>
+
+          <ul class="testimonials-list has-scrollbar">
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="author.jpg" alt="Daniel lewis" width="60" height="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Kabir  Alkasim</h4>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p>
+  <b>Author:</b> Web Designer.</p>
+  <a href="mailto:kabiralkasim6@gmail.com">Email</a> Or<br> <a href="whatsapp:07037648388">Whatsapp</a>
+                
+                </div>
+
+              </div>
+            </li>
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="jamilu.jpg" alt="Jessica miller" width="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Jamilu Bala Bacha </h4>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p>
+                    The contributor procedure of forex trade.</p>
+<a href="mailto:xcvkp@example.com">Email</a> Or<br> <a href="whatsapp:07037648388">Whatsapp</a>
+                
+                </div>
+
+              </div>
+            </li>
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="saifi.jpg" alt="Emily evans" width="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Saifillahi Bala  Bacha </h4>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p>
+                    The contributor of forex analysis.</p>
+                    <a href="mailto:tugrp@example.com">Email</a> Or<br> <a href="whatsapp:07037648388">Whatsapp</a>
+
+                </div>
+
+              </div>
+            </li>
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                  <img src="./assets/images/avatar-4.png" alt="Henry william" width="60" data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title>Auwal Ibrahim (Olcy) </h4>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p>
+                    The contribotor of  graphics design as professional.
+                  </p>
+                  <a href="mailto:tugrp@example.com">Email</a> Or<br> <a href="whatsapp:07037648388">Whatsapp</a>
+                </div>
+
+              </div>
+            </li>
+
+          </ul>
+
+        </section>
+
+
+        <!--
+          - testimonials modal
+        -->
+<div class="modal-container" data-modal-container>
+
+          <div class="overlay" data-overlay></div>
+
+          <section class="testimonials-modal">
+
+            <button class="modal-close-btn" data-modal-close-btn>
+              <ion-icon name="close-outline"></ion-icon>
+            </button>
+
+            <div class="modal-img-wrapper">
+              <figure class="modal-avatar-box">
+                <img src="./assets/images/avatar-1.png" alt="Daniel lewis" width="80" data-modal-img>
+              </figure>
+
+              <img src="./assets/images/icon-quote.svg" alt="quote icon">
+            </div>
+
+            <div class="modal-content">
+
+              <h4 class="h3 modal-title" data-modal-title>Kabir Alkasim</h4>
+
+  <h4>Peace be open to you</h4>
+
+              <div data-modal-text>
+                <p>
+                  
+                </p>
+              </div>
+
+            </div>
+
+          </section>
+
+        </div>
+
+        
+
+      </article>
+
+
+
+
+
+      <!--
+        - #RESUME
+      -->
+
+      <article class="education" data-page="education">
+
+        <header>
+          <h2 class="h2 article-title">Education</h2>
+        </header>
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="book-outline"></ion-icon>
+            </div>
+
+            <h3 class="h3">Forex Academy</h3>
+          </div>
+
+          <ol class="timeline-list">
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Academy link1:</h4>
+
+              <span>Exness academy</span>
+
+              <p class="timeline-text">Get full Education trade forex and analysis procedures.
+       <a class="hnor" href="https://my.exness.com/pa/analytics/"> Exness Analytics</a>
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title"> Academy link2</h4>
+
+              <span>FBS Academy</span>
+
+              <p class="timeline-text">Get knowledge before you start trading.
+                 <a href='https://fbs.com/cabinet/content/education/levels'>FBS  Academy</a>
+☝️☝️
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Academy links3</h4>
+
+              <span>Start with education before you trade</span>
+
+              <p class="timeline-text">
+                <a class="hnor" href="https://my.roboforex.com/en/profile/analytics-center/" >RoboForex analytics center</a>
+              </p>
+
+            </li>
+
+          </ol>
+
+        </section>
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="book-outline"></ion-icon>
+            </div>
+
+            <h3 class="h3">Analysis</h3>
+          </div>
+
+          <ol class="timeline-list">
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Scalping</h4>
+
+              <span>Scalping Trading</span>
+
+              <p class="timeline-text">
+      Scalping trading is a short-term trading technique that involves buying and selling underlying multiple times during the day to earn profit from the price difference. It involves buying an asset at a lower price and selling high. The key is to find highly liquid assets that promise frequent price changes during the day.
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Swing</h4>
+
+              <span>Swing Trading</span>
+
+              <p class="timeline-text">
+                Swing trading is a style of trading that attempts to capture short- to medium-term gains in a stock (or any financial instrument) over a period of a few days to several weeks. Swing traders primarily use technical analysisto look for tradi…
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Day Trading</h4>
+
+              <span>Day Trading</span>
+
+              <p class="timeline-text">
+              Day Trading: a trading style that involves opening and closing trades within the same trading day.
+              </p>
+
+            </li>
+
+          </ol>
+
+        </section>
+
+        <section class="skill">
+
+          <h3 class="h3 skills-title">My skills</h3>
+
+          <ul class="skills-list content-card">
+
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Scalping Trade</h5>
+                <data value="80">80%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 80%;"></div>
+              </div>
+
+            </li>
+
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Swing Trade</h5>
+                <data value="90">90%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 90%;"></div>
+              </div>
+
+            </li>
+
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Day Trade</h5>
+                <data value="90">90%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 90%;"></div>
+              </div>
+
+            </li>
+
+            <li class="skills-item">
+
+              <div class="title-wrapper">
+                <h5 class="h5">Fundemental Analysis</h5>
+                <data value="90">90%</data>
+              </div>
+
+              <div class="skill-progress-bg">
+                <div class="skill-progress-fill" style="width: 80%;"></div>
+              </div>
+
+            </li>
+
+          </ul>
+
+        </section>
+
+      </article>
+
+
+
+
+
+      <!--
+        - #PORTFOLIO
+      -->
+
+      <article class="portfolio" data-page="portfolio">
+
+        <header>
+          <h2 class="h2 article-title">Portfolio</h2>
+        </header>
+
+        <section class="projects">
+
+          <ul class="filter-list">
+
+            <li class="filter-item">
+              <button class="active" data-filter-btn>All</button>
+            </li>
+
+            <li class="filter-item">
+              <button data-filter-btn>Forex Trading</button>
+            </li>
+
+            <li class="filter-item">
+              <button data-filter-btn>Crypto Trading</button>
+            </li>
+
+            <li class="filter-item">
+              <button data-filter-btn>Web development</button>
+            </li>
+
+          </ul>
+
+          <div class="filter-select-box">
+
+            <button class="filter-select" data-select>
+
+              <div class="select-value" data-selecct-value>Select category</div>
+
+              <div class="select-icon">
+                <ion-icon name="chevron-down"></ion-icon>
+              </div>
+
+            </button>
+
+            <ul class="select-list">
+
+              <li class="select-item">
+                <button data-select-item>All</button>
+              </li>
+
+              <li class="select-item"> <a href="assets/careerFX/forex.html">
+                <button data-select-item>Forex Trading</button></a>
+              </li>
+
+              <li class="select-item">
+                <button data-select-item>Crypto Trade</button>
+              </li>
+
+              <li class="select-item">
+                <button data-select-item>Web development</button>
+              </li>
+
+            </ul>
+
+          </div>
+
+          <ul class="project-list">
+
+            <li class="project-item  active" data-filter-item data-category="web development">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbM1R50wwLQd8Awkus-1jDXUcEs-6UY7ZogQ&amp;usqp=CAU" alt="finance" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Forex</h3>
+
+                <p class="project-category">Forex Trade Development</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web development">
+              <a href=" https://one.exness-track.com/a/1bb4qvbzii?platform=mobile&pid=mobile_share">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnj1qvkGLueZL_EIAYVbZTAGB-FSY8XLyTeg&amp;usqp=CAU loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Exness Forex</h3>
+
+                <p class="project-category">Forex market of Exness</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="https://octafx.page.link/JFyN">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUCp8SvTYaVEm_DHA3Ns6kD9kkRHRr5gSGzg&amp;usqp=CAU" alt="fundo" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">OctaFX</h3>
+
+                <p class="project-category">OctaFX Market place</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="applications">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDb6dkhdQgZrJPtMrXR_De9UmpnPJxm7bK2g&amp;usqp=CAU" alt="brawlhalla" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Career Skills</h3>
+
+                <p class="project-category">Applications</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdKRqQ0iT_FpCqDuY20H_Lh5rLYHAPytGnVQ&amp;usqp=CAU" alt="dsm." loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Crypto</h3>
+
+                <p class="project-category">Crypto Trading</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuC4sbJRUybxfQvQO5fQZQgOubltEO-Oj83A&amp;usqp=CAU" alt="metaspark" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Binance</h3>
+
+                <p class="project-category">Crypto Trade on Binance</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web development">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc6fcaXH01gu9-N_yG3XoJMs2iWOQ-Ds2ZQA&amp;usqp=CAU" alt="summary" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">TraderWagon</h3>
+
+                <p class="project-category">Binance CopyTrade</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="applications">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/project-8.jpg" alt="task manager" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Task Manager</h3>
+
+                <p class="project-category">Applications</p>
+
+              </a>
+            </li>
+
+            <li class="project-item  active" data-filter-item data-category="web development">
+              <a href="#">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCXCY9rEEeSEl9YQcrMmhTzDdPvT-Fd9AwBg&amp;usqp=CAU" alt="arrival" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Career skills</h3>
+
+                <p class="project-category">development</p>
+
+              </a>
+            </li>
+
+          </ul>
+
+        </section>
+
+      </article>
+
+
+
+
+
+      <!--
+        - #Academy
+      -->
+
+      <article class="academy" data-page="academy">
+
+        <header>
+          <h2 class="h2 article-title">Academy</h2>
+        </header>
+
+        <section class="academy-posts">
+
+          <ul class="academy-posts-list">
+
+            <li class="academy-post-item">
+              <a href="assets/careerFX/forextutorial.html">
+
+                <figure class="blog-banner-box">
+          
+
+<img data-ils="4" jsaction="rcuQ6b:trigger.M8vzZb;" class="rg_i Q4LuWd" jsname="Q4LuWd" width="168" height="237" alt="Forex trading tutorial - i i About the Tutorial Forex Market is an ..." src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ1NMBSzfpVBhl7g_R1eMKRyhOG8ypzEaGGA&amp;usqp=CAU">
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category">Forex:</p>
+
+                    <span class="dot"></span>
+
+                    <time datetime="currency">Academy</time>
+                  </div>
+
+                  <h3 class="h3 blog-item-title">Education «Tutorial»</h3>
+
+                  <p class="blog-text">
+  Simple way of learning Forex, in Hausa and English language.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+            <li class="blog-post-item">
+              <a href="assets/careerFX/Cryptotutorial.html">
+
+                <figure class="blog-banner-box">
+                  <img data-ils="4" jsaction="rcuQ6b:trigger.M8vzZb;" class="rg_i Q4LuWd" jsname="Q4LuWd" width="168" height="168" alt="Forex Trading Tutorial - Best Forex Trading Training Tutorial" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoqCtkE6Zn2S3gPTwCWNZuodLd7m6rwcU76A&amp;usqp=CAU">
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category">Crypto:</p>
+
+                    <span class="dot"></span>
+
+                    <time datetime="analysis">Academy</time>
+                  </div>
+
+                  <h3 class="h3 blog-item-title">Education «Tutorial»</h3>
+
+                  <p class="blog-text">
+Simple way of learning cryptocurrency trading or stacked English and Hausa language.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+            <li class="blog-post-item">
+              <a href="assets/careerFX/webdep.html">
+
+                <figure class="blog-banner-box">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGFsJbi2zaijSsL4JVNEHH2Vb8cZ-VRdXmsw&amp;usqp=CAU" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 5000px; opacity: 1; transform: none; width: 360px; height: 240px; margin: 0px;" alt="ABM College: What you learn in a web design and development program" jsname="kn3ccd" aria-hidden="false">
+                  
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category">Web design:</p>
+
+                    <span class="dot"></span>
+                    
+                  </div>
+
+                  <h3 class="h3 blog-item-title">Tutorial «web Developers»</h3>
+
+                  <p class="blog-text">The best learning experience for web developers in English and Hausa language from difference developers.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+            <li class="blog-post-item">
+              <a href="assets/careerFX/python.html">
+
+                <figure class="blog-banner-box">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0TUtYAcJ0OMgU-mUopKumkpw5az6sGHOOmw&amp;usqp=CAU" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 4290px; opacity: 1; transform: none; width: 360px; height: 242px; margin: 0px;" alt="How to Master Python: A Tutorial | Udacity" jsname="kn3ccd" aria-hidden="false">
+                  
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category">Python:</p>
+
+                    <span class="dot"></span>
+
+                  </div>
+
+                  <h3 class="h3 blog-item-title">Programming language «Tutorial»</h3>
+
+                  <p class="blog-text">
+The best learning experience for Python programming language in English and Hausa language from different developers.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+            <li class="blog-post-item">
+              <a href="assets/careerFX/Graphic.html">
+
+                <figure class="blog-banner-box">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnYF5Nz5B9zfPMDvXTDs2Z2By-_MM7tX87Hg&amp;usqp=CAU" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 2400px; opacity: 1; transform: none; width: 360px; height: 216px; margin: 0px;" alt="Guidelines for the Better Graphic Designing from Hamstech" jsname="kn3ccd" aria-hidden="false">
+                  
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category">Graphics:</p>
+
+                    <span class="dot"></span>
+
+                  
+                  </div>
+
+                  <h3 class="h3 blog-item-title">Graphics Design</h3>
+
+                  <p class="blog-text">Graphic design is a profession, academic discipline and applied art whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+            <li class="blog-post-item">
+              <a href="https://selar.co/ei69">
+
+                <figure class="blog-banner-box">
+
+                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN4QBxC6KfXWUiTf9scJHjEHo88xj24ALd7g&amp;usqp=CAU" jsaction="VQAsE" class="sFlh5c pT0Scc iPVvYb" style="max-width: 2400px; opacity: 1; transform: none; width: 360px; height: 189px; margin: 0px;" alt="How to Start Affiliate Marketing: A Beginner's Guide" jsname="kn3ccd" aria-hidden="false">
+                  
+                </figure>
+
+                <div class="blog-content">
+
+                  <div class="blog-meta">
+                    <p class="blog-category">Affiliate Market</p>
+
+                    <span class="dot"></span>
+
+                    
+                  </div>
+
+                  <h3 class="h3 blog-item-title">How to became Affiliate marketer</h3>
+
+                  <p class="blog-text">Join the multi-awarded Affiliate Program! Available to new and existing partners. Fast Payments Daily – complete transparency.
+                  </p>
+
+                </div>
+
+              </a>
+            </li>
+
+          </ul>
+
+        </section>
+
+      </article>
+
+
+
+
+
+      <!--
+        - #CONTACT
+      -->
+
+      <article class="contact" data-page="contact">
+
+        <header>
+          <h2 class="h2 article-title">Contact</h2>
+        </header>
+
+        <section class="mapbox" data-mapbox>
+          <figure>
+<div class="mapouter"><div class="gmap_canvas"><iframe class="gmap_iframe" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q= Binalkaseem shop Cheranchi;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://formatjson.org/word-counter">Bin-Alkaseem</a>
+            
+        </div>   
+     </div>
+            
+            
+          </figure>
+        </section>
+
+        <section class="contact-form">
+
+          <h3 class="h3 form-title">Contact Form</h3>
+
+          <form action="https://1drv.ms/w/s!AsHXQ8sjAaLmhyTYO2qefhyZ_lVm" class="form" data-form>
+
+            <div class="input-wrapper">
+              <input type="text" name="fullname" class="form-input" placeholder="Full name" required data-form-input>
+
+              <input type="email" name="email" class="form-input" placeholder="Email address" required data-form-input>
+            </div>
+
+            <textarea name="message" class="form-input" placeholder="Your Message" required data-form-input></textarea>
+
+            <button class="form-btn" type="submit" disabled data-form-btn>
+              <ion-icon name="paper-plane"></ion-icon>
+              <span>Send Message</span>
+            </button>
+
+          </form>
+
+        </section>
+
+      </article>
+
+    </div>
+
+  </main>
+<br/><br/>
+
+
+
+
+
+  <!--
+    - custom js link
+  -->
+  <script src="./assets/js/script.js"></script>
+
+  <!--
+    - ionicon link
+  -->
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+</body>
+
+</html>
